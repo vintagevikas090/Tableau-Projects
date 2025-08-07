@@ -12,6 +12,12 @@ This interactive dashboard provides a centralized view of critical HR data to he
 
 ---
 
+###  **Snapshot**
+<img width="1974" height="1124" alt="Final Dashboard" src="https://github.com/user-attachments/assets/30c3c312-3c3a-4b23-9a6e-0a47c7a24015" />
+
+
+---
+
 ### 📌 **Key Functionalities**
 
 * Real-time visualization of employee attrition trends across departments, education fields, and age groups
@@ -32,4 +38,5 @@ This interactive dashboard provides a centralized view of critical HR data to he
 ### 🌐 **Purpose**
 
 This dashboard is intended to assist HR departments in identifying patterns and potential risk areas, supporting data-driven decisions for improving retention, satisfaction, and overall organizational health.
+
 
